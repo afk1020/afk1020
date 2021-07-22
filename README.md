@@ -1,11 +1,18 @@
 Hi there 👋, I'm Ashley Knorr Gehring
-
+</br>
+<br>
 🔭 I’m currently working on my latest projects
-🌱 I’m currently learning everything 😂 but specifically JavaScript, ReactJS, Ruby, and Rails
+</br>
+🌱 I’m currently learning everything 😂  but specifically JavaScript, ReactJS, Ruby, and Rails
+</br>
 😄 Pronouns: She/Her
+</br>
 🥅 2021 Goals: Contribute more to Open Source projects
-📫 How to reach me: 📧 ashleyknorr@gmail.com
+</br>
+📫 How to reach me: 📧  ashleyknorr@gmail.com
+</br>
 ⚡ Fun fact: I enjoy fitness and DIY projects
+</br>
 
 Language and Tools:
 
